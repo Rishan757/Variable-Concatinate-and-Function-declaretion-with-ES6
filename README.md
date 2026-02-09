@@ -1,0 +1,1 @@
+# Variable-Concatinate-and-Function-declaretion-with-ES6
